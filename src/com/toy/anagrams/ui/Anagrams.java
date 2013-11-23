@@ -94,6 +94,8 @@ public class Anagrams extends JFrame {
                               (screenSize.height - frameSize.width) / 2));
     }
     
+    /*  added comment here to test gitHub repository */
+    
     /** This method is called from within the constructor to
      * initialize the form.
      * WARNING: Do NOT modify this code. The content of this method is
